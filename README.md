@@ -1,3 +1,3 @@
 - Hallo ich bin Marcus auch flummi genannt
 - Meine Interessen liegen bei: php, js, xml, html, sql
-- Aktuell beschäftige ich mich mit AJAX, SESSION, CACHE, COOKIES... Speicherungen und den Aufbau eines Modularen CMS für alles und jeden.
+- Letzte Projekte: Radio-, Vereinsverwaltung- & Userverwaltungs CMSysteme, Html JS Mini-Games und Bludit Plugins für Webradios
